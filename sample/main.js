@@ -1,7 +1,7 @@
 new Vue({
   el: '#app',
   data: {
-    text:"Vueです"
+    text:"vueで表示してます"
   },
   methods: {
   }
